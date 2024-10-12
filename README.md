@@ -1,6 +1,6 @@
 BackendGestion: Gestión de Proyectos y Tareas
 Descripción
-Este repositorio contiene el backend de una aplicación web completa para gestionar proyectos y tareas de manera eficiente. Construido con una sólida pila tecnológica, este proyecto ofrece una solución escalable y personalizable para equipos de desarrollo de todos los tamaños.
+Este repositorio contiene el backend de una aplicación web completa para gestionar proyectos y tareas de manera eficiente.
 
 Características Clave
 API RESTful: Interfaz de programación de aplicaciones que permite una fácil integración con cualquier frontend.
